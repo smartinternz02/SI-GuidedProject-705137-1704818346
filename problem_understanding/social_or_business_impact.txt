@@ -1,0 +1,17 @@
+Social Impact: 
+The implementation of accurate and up-to-date information on doctor availability through a CURA healthcare project 
+significantly contributes to improved patient care. Healthcare professionals armed with reliable data can make more 
+informed decisions regarding treatment options. This leads to enhanced medical services, personalized care, and better 
+health outcomes for patients. By reducing uncertainty and providing real-time information, the project supports healthcare 
+providers in delivering more effective and timely treatments, ultimately fostering a positive impact on the well-being of 
+individuals in need of medical attention.
+
+Business Impact: 
+The CURA Health project, with its emphasis on doctor availability and streamlined interaction processes, brings about 
+noteworthy business advantages. It facilitates the development of new notification systems that alert users when a booked 
+slot with a doctor becomes unavailable, promoting efficient scheduling and minimizing disruptions. Furthermore, by offering 
+insights into the availability of doctors for various medical issues, the project optimizes resource allocation and enhances 
+overall service efficiency. This not only improves customer satisfaction but also boosts the reputation of the healthcare 
+service, potentially attracting more users and contributing to the project's sustained success. The business impact is 
+characterized by improved operational efficiency, increased customer engagement, and a positive competitive edge in the
+healthcare sector.
