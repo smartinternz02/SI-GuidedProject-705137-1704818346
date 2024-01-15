@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>amenu-toggle</name>
    <tag></tag>
-   <elementGuidId>7d68c4d7-6f44-4f4e-b139-d58aa72ddbdd</elementGuidId>
+   <elementGuidId>a16efe8d-b0b0-4923-8ce2-245be86bcacc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btn-login</value>
+         <value>#menu-toggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-login']</value>
+         <value>//a[@id='menu-toggle']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>112e1c88-acb9-4b1a-a4c6-faa9456a093c</webElementGuid>
+      <value>a</value>
+      <webElementGuid>fffcf02d-79f3-42c5-9b7f-21fc1980e3d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>btn-login</value>
-      <webElementGuid>effc96b9-d9a9-4b1e-9991-fe9392f27848</webElementGuid>
+      <value>menu-toggle</value>
+      <webElementGuid>a577c1e2-f547-40ef-aee9-e752c3a9f0e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>href</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>efaa0840-b44b-43fd-bb05-b600fa594a4e</webElementGuid>
+      <value>#</value>
+      <webElementGuid>a85c7e43-fddf-4f46-87e0-e272d6348369</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>9c98f9ed-f92e-4173-aa25-24ec250b6f97</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>05e3e71e-fb7f-4122-8164-c875ea891192</webElementGuid>
+      <value>btn btn-dark btn-lg toggle</value>
+      <webElementGuid>82cbab2f-16fc-43fa-bff8-fb92ebc9c700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-login&quot;)</value>
-      <webElementGuid>dac84a47-a1b7-488b-bc9c-ed3a650536ac</webElementGuid>
+      <value>id(&quot;menu-toggle&quot;)</value>
+      <webElementGuid>414d8e45-b699-4e32-87f3-73d57afe4f04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btn-login']</value>
-      <webElementGuid>b95d45cd-52cb-4cb2-9355-579596eb1245</webElementGuid>
+      <value>//a[@id='menu-toggle']</value>
+      <webElementGuid>96fb7ac4-3783-442d-bc72-dcaa257e5fd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:href</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[4]/div/button</value>
-      <webElementGuid>7636fb03-2666-40b4-8a0a-5db440eb1c61</webElementGuid>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>9749ea96-ae93-44f8-a50d-de63ee6ee079</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>7ab01405-0be0-443e-97d6-c1f1c6360687</webElementGuid>
+      <value>//a</value>
+      <webElementGuid>aa26081a-2901-47a3-ac5c-cf7cec87cd17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>39b4e637-ac30-4757-b876-9e1e325f8124</webElementGuid>
+      <value>//a[@id = 'menu-toggle' and @href = '#']</value>
+      <webElementGuid>ad159c3d-2559-4f23-b3d5-118ef2a3b227</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
