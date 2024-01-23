@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_hospital_readmission</name>
+   <name>input_programs</name>
    <tag></tag>
-   <elementGuidId>f9f7b8b3-d3b5-4843-8dbd-2d0a98bf12f2</elementGuidId>
+   <elementGuidId>df7dcd92-3793-4289-a24c-f329cb1c2598</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='chk_hospotal_readmission']</value>
+         <value>//input[@id='radio_program_medicaid']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#chk_hospotal_readmission</value>
+         <value>#radio_program_medicaid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,78 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>054a2389-c698-46b2-862f-e3d0f3383a73</webElementGuid>
+      <webElementGuid>c3e8419f-d2a8-4be5-a47c-cb299d960506</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>08803bea-f5e3-4c09-93ef-d3e62042e425</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>chk_hospotal_readmission</value>
-      <webElementGuid>217ee4c8-f131-45a9-83b1-f171eb9dcf12</webElementGuid>
+      <value>radio</value>
+      <webElementGuid>b52b85e5-26f9-4d5f-ab09-a665b203d82c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>hospital_readmission</value>
-      <webElementGuid>a6c618f0-2eeb-4b45-b7e8-039ee221f6ad</webElementGuid>
+      <value>programs</value>
+      <webElementGuid>ebe52161-ed85-48bd-9d8d-a2dcc481a57a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>radio_program_medicaid</value>
+      <webElementGuid>fb7d297a-4009-4fdd-a0c2-6248085c2862</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Yes</value>
-      <webElementGuid>229a7d31-f053-43f2-8f84-389fd1b0a2fb</webElementGuid>
+      <value>Medicaid</value>
+      <webElementGuid>f17fe891-2f37-4b08-b35c-203e459015ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;chk_hospotal_readmission&quot;)</value>
-      <webElementGuid>1b092cd9-4b55-4836-a86b-4b65141b745e</webElementGuid>
+      <value>id(&quot;radio_program_medicaid&quot;)</value>
+      <webElementGuid>0c0ba04d-cedb-4c4c-b0b9-b3c8583e0b40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='chk_hospotal_readmission']</value>
-      <webElementGuid>7ebda40e-63f2-478c-9c3a-36bc43ceac1b</webElementGuid>
+      <value>//input[@id='radio_program_medicaid']</value>
+      <webElementGuid>986d44c8-4614-4d4b-b5be-e573c2e64718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='appointment']/div/div/form/div[2]/div/label/input</value>
-      <webElementGuid>710df2e2-f5f0-4c5a-9998-2adcac9818ff</webElementGuid>
+      <value>//section[@id='appointment']/div/div/form/div[3]/div/label[2]/input</value>
+      <webElementGuid>9c80c9a4-539a-4942-b222-c0289ea5a981</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>c21323a5-5c46-471c-801d-8cddbca6c8fd</webElementGuid>
+      <value>//label[2]/input</value>
+      <webElementGuid>49e9522f-745b-4fd0-8127-cfdd315cf7fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @id = 'chk_hospotal_readmission' and @name = 'hospital_readmission']</value>
-      <webElementGuid>101da82d-9283-4b65-815f-a314e4a962da</webElementGuid>
+      <value>//input[@type = 'radio' and @name = 'programs' and @id = 'radio_program_medicaid']</value>
+      <webElementGuid>673a6d17-3709-47b2-9838-9d905242afe9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

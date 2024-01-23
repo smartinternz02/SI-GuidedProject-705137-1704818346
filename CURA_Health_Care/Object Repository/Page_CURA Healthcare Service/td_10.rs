@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h2_Appointment Confirmation</name>
+   <name>td_10</name>
    <tag></tag>
-   <elementGuidId>512beff3-34d9-4347-a295-94573851ee88</elementGuidId>
+   <elementGuidId>61278abb-3a47-43b5-b2e5-0e2e69ef93c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//section[@id='summary']/div/div/div/h2</value>
+         <value>//tr[2]/td[4]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>h2</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,47 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h2</value>
-      <webElementGuid>9568c070-b127-4555-b2f0-3711e9f1349b</webElementGuid>
+      <value>td</value>
+      <webElementGuid>77a422ee-fcbf-4c4b-85e5-7be6fbd10043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day</value>
+      <webElementGuid>e7e1a2dc-4b58-4305-b553-7b02bdc4676c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Appointment Confirmation</value>
-      <webElementGuid>387ab8a4-e212-4576-919a-aba4c5f233ff</webElementGuid>
+      <value>10</value>
+      <webElementGuid>776665c7-f155-4f4a-abbe-4933aa0373a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;summary&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 text-center&quot;]/h2[1]</value>
-      <webElementGuid>2ebdcc98-07c5-473c-a7f6-3e4381a05d1a</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-bottom&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[2]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>6eee21e2-54a7-40e3-a3fb-96f59b131daf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//section[@id='summary']/div/div/div/h2</value>
-      <webElementGuid>f711ca9e-6db4-434d-9791-3e81d1c3217c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h2</value>
-      <webElementGuid>7d712a4f-0191-4207-b3db-e19b8b524525</webElementGuid>
+      <value>//tr[2]/td[4]</value>
+      <webElementGuid>39a26e43-cb92-4c31-8640-d549465319b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h2[(text() = 'Appointment Confirmation' or . = 'Appointment Confirmation')]</value>
-      <webElementGuid>0c86a534-fc9c-40fd-9921-ff32d795252d</webElementGuid>
+      <value>//td[(text() = '10' or . = '10')]</value>
+      <webElementGuid>09de8e8a-bb6d-45e8-9a86-7a005e053128</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

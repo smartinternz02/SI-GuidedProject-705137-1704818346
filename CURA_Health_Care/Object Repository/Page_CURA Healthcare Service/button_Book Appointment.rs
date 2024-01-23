@@ -6,12 +6,12 @@
    <elementGuidId>0db7e73d-3725-462f-b89b-2bfaefde3ce7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btn-book-appointment</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btn-book-appointment']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-book-appointment</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eae64d35-0d24-41f6-85e7-af698dbe8321</webElementGuid>
+      <webElementGuid>0df5e17a-8161-43fd-a769-b841a9cb24b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-book-appointment</value>
-      <webElementGuid>bba1c5e8-31e0-43e8-b2f9-ebae8e0b3b86</webElementGuid>
+      <webElementGuid>4ba400d5-9ba2-4b57-85fa-5b5b1847bd33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>7cd08628-7ee0-4e69-85cf-81d470088ec1</webElementGuid>
+      <webElementGuid>2adff2e0-bd42-432e-97e4-b867ae005a16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>cb3ad74a-9f75-4f24-866c-367c59d8bc6f</webElementGuid>
+      <webElementGuid>99e4583f-4f43-4402-9fd5-392568d5b690</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Book Appointment</value>
-      <webElementGuid>eb1d200e-ae5a-4d19-9116-01b08cbafe08</webElementGuid>
+      <webElementGuid>65f7b5a7-826d-4556-9e2c-0b5fcbdede2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-book-appointment&quot;)</value>
-      <webElementGuid>04614bf7-5f7e-45e7-986f-0b83476dae96</webElementGuid>
+      <webElementGuid>4fbf8bf3-47ce-472a-b043-dedd4cd0fdd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-book-appointment']</value>
-      <webElementGuid>e3346cf9-26ad-4d64-9dc9-3b84962c7c1d</webElementGuid>
+      <webElementGuid>fbe29a27-e2c7-48b0-9991-90fa6a4729e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[6]/div/button</value>
-      <webElementGuid>c149ae83-0bea-4d70-b315-329a5d9f802a</webElementGuid>
+      <webElementGuid>85b34f16-692d-410f-a476-96570a728bba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>24112981-1be6-425f-b274-39ce6b8ac5ee</webElementGuid>
+      <webElementGuid>999d07b7-d1e7-4135-ad65-2609262eb367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'btn-book-appointment' and @type = 'submit' and (text() = 'Book Appointment' or . = 'Book Appointment')]</value>
-      <webElementGuid>e7c9ad1e-85bd-4940-9c86-eaaf6d2b834a</webElementGuid>
+      <webElementGuid>475f7fce-a411-47e8-969e-55a3001cd998</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
